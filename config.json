@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cartcarse",
+        "uuid": 2771226,
+        "checksum": "vnjfm"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
